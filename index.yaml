@@ -1,0 +1,13 @@
+apiVersion: v1
+entries:
+  alauda-base:
+  - apiVersion: v1
+    appVersion: "2.0"
+    created: 2019-10-29T13:54:22.072114937+08:00
+    description: Alauda Base
+    digest: aed421d06bdcdeba1951d2c6839ed1fa3f797970cdc359205184001e41333852
+    name: alauda-base
+    urls:
+    - alauda-base-v2.4-b.26.tgz
+    version: v2.4-b.26
+generated: 2019-10-29T13:54:22.069618835+08:00
